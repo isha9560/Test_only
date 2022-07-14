@@ -12,3 +12,6 @@ git push -u origin main
 git remote add origin git@github.com:isha9560/test.git
 git branch -M main
 git push -u origin main
+
+===> How to learn and practice in git 
+===> https://learngitbranching.js.org/
